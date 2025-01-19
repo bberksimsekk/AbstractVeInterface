@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\source\\repos\\AbstractVeInterFaceKavrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9DB61-E499-4DA0-A412-4C1040563F58}|AbstractVeInterFaceKavrami\\AbstractVeInterFaceKavrami.csproj|c:\\users\\huawei\\source\\repos\\abstractveinterfacekavrami\\abstractveinterfacekavrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9DB61-E499-4DA0-A412-4C1040563F58}|AbstractVeInterFaceKavrami\\AbstractVeInterFaceKavrami.csproj|solutionrelative:abstractveinterfacekavrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\source\\repos\\AbstractVeInterFaceKavrami\\AbstractVeInterFaceKavrami\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractVeInterFaceKavrami\\Program.cs",
+              "ToolTip": "C:\\Users\\Huawei\\source\\repos\\AbstractVeInterFaceKavrami\\AbstractVeInterFaceKavrami\\Program.cs",
+              "RelativeToolTip": "AbstractVeInterFaceKavrami\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAIwC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:08:54.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

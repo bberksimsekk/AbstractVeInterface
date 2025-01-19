@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\AbstractVeInterFaceKavrami\AbstractVeInterFaceKavrami\bin\Debug\AbstractVeInterFaceKavrami.exe.config
+C:\Users\Huawei\source\repos\AbstractVeInterFaceKavrami\AbstractVeInterFaceKavrami\bin\Debug\AbstractVeInterFaceKavrami.exe
+C:\Users\Huawei\source\repos\AbstractVeInterFaceKavrami\AbstractVeInterFaceKavrami\bin\Debug\AbstractVeInterFaceKavrami.pdb
+C:\Users\Huawei\source\repos\AbstractVeInterFaceKavrami\AbstractVeInterFaceKavrami\obj\Debug\AbstractVeInterFaceKavrami.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\AbstractVeInterFaceKavrami\AbstractVeInterFaceKavrami\obj\Debug\AbstractVeInterFaceKavrami.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\AbstractVeInterFaceKavrami\AbstractVeInterFaceKavrami\obj\Debug\AbstractVeInterFaceKavrami.exe
+C:\Users\Huawei\source\repos\AbstractVeInterFaceKavrami\AbstractVeInterFaceKavrami\obj\Debug\AbstractVeInterFaceKavrami.pdb
