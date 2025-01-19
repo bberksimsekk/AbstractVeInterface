@@ -1,2 +1,2 @@
 # AbstractVeInterface
-Abstact ve InterFace Kavramlarının Kullanımını Anlatılıyor.
+Dünkü derste Abstact ve InterFace Kavramlarını öğrendik. Kaçıranlar bu dosyayı indirip inceleyebilirsiniz.
